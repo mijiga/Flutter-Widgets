@@ -1,7 +1,11 @@
 # Flutter Widgets
 Random UI things I see and try to implement
+[GitHub Pages](https://pages.github.com/)
 
 ## 1. BottomSheet Dialog 
-      Design by Kevin Dukkon: https://dribbble.com/shots/7847394--Share-Question-Exploration
-      My implementation: ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
-      [GitHub Pages](https://pages.github.com/)
+Design by Kevin Dukkon: https://dribbble.com/shots/7847394--Share-Question-Exploration
+
+My implementation: 
+
+<img src="https://github.com/mijiga/Flutter-Widgets/blob/main/screenshots/question%20bottom%20sheet%20dialog.png" data-canonical-src="https://github.com/mijiga/Flutter-Widgets/blob/main/screenshots/question%20bottom%20sheet%20dialog.png" width="200" height="400" />
+
