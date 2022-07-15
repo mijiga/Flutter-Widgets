@@ -1,5 +1,5 @@
 # Flutter Widgets
-Random UI things I find and try to implement
+Random UI designs I find and implement
 
 ## 1. BottomSheet Dialog 
 Design by Kevin Dukkon: https://dribbble.com/shots/7847394--Share-Question-Exploration
